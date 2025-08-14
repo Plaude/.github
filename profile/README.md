@@ -1,4 +1,4 @@
-<a href="https://plaudeai.com">
+<a href="https://plaude.com">
   <img alt="Enterprise AI for the financial industry" src="https://github.com/user-attachments/assets/9070bfe1-cde4-4996-84ab-6b9be52762fb">
 </a>
 
@@ -8,6 +8,6 @@
     Enterprise AI for the financial industry.
     <br />
     <br />
-    <a href="https://plaudeai.com"><strong>Website</strong></a> ·
+    <a href="https://plaude.com"><strong>Website</strong></a> ·
     <a href="https://x.com/PlaudeAI"><strong>X</strong></a>
 </p>
